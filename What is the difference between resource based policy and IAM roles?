@@ -1,0 +1,2 @@
+Identity-based policies are attached to an identity (a user, group, or role) and dictate the permissions of that specific identity. 
+In contrast, a resource-based policy defines the permissions around the specific resource—by specifying which identities have access to a specific resource and when.
