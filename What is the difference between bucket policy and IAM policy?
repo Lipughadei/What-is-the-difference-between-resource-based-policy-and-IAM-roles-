@@ -1,0 +1,1 @@
+S3 Bucket Policies use Resource Based Access Control whereas IAM uses Role/User Based Access Control. Its important to keep this in mind when thinking of these two models.
