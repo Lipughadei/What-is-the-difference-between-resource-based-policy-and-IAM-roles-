@@ -1,0 +1,2 @@
+While IAM Roles facilitate granular, temporary permissions typically used for service-to-service interactions,
+Policies are the backbone of permission assignments by defining what actions are allowed or denied.
